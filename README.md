@@ -2,7 +2,7 @@
 
 **Le classique de stratégie, cinq niveaux d'IA et un mode deux joueurs.**
 
-Le Jeu du Moulin se joue en trois phases : placement, déplacement, puis vol quand il ne reste que trois pions. Alignez trois pions sur une ligne pour retirer une pièce adverse, bloquez l'adversaire et ramenez-le à moins de trois pions. Cinq niveaux d'IA, du hasard au minimax profond 5, mode deux joueurs, scores, règles et commandes clavier. Le plateau et les pièces sont dessinés en SVG, les sons sont synthétisés dans le navigateur.
+Le Jeu du Moulin se joue en trois phases : placement, déplacement, puis vol quand il ne reste que trois pions. Alignez trois pions sur une ligne pour retirer une pièce adverse, bloquez l'adversaire et ramenez-le à moins de trois pions. Cinq niveaux d'IA, du hasard au minimax profond 5, mode deux joueurs, scores et règles. Le plateau et les pièces sont dessinés en SVG, les sons sont synthétisés dans le navigateur.
 
 Joue ici : [games.hylst.fr/jeu-du-moulin/](https://games.hylst.fr/jeu-du-moulin/)
 
@@ -14,7 +14,7 @@ Joue ici : [games.hylst.fr/jeu-du-moulin/](https://games.hylst.fr/jeu-du-moulin/
 - Mode deux joueurs sur le même écran.
 - Trois phases : placement, déplacement, vol.
 - Scores, pièces en main, pièces sur le plateau et pièces capturées.
-- Règles intégrées, commandes clavier, sons Web Audio et plein écran.
+- Règles intégrées, sons Web Audio et plein écran.
 - Aucune donnée locale, aucun compte, aucun cookie.
 
 ## Technique
